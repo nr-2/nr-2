@@ -1,17 +1,19 @@
-<h2 align="center">Hello Skids <img src="https://x86.pics/logo.svg" height="25px"></h2>
+<div align="center">
+<pre>
+███╗   ██╗ ██████╗ ██╗  ██╗██████╗ 
+████╗  ██║██╔═══██╗██║  ██║██╔══██╗
+██╔██╗ ██║██║   ██║███████║██████╔╝ 
+██║╚██╗██║██║   ██║╚════██║██╔══██╗ 
+██║ ╚████║╚██████╔╝      ██║██║  ██║
+╚═╝  ╚═══╝ ╚═════╝       ╚═╝╚═╝  ╚═╝
 
-```python
-┌──(root@No4r)-[~/]
-└─$ cat No4r.rb
-class No4r
-  def initialize
-    @Github = "https://github.com/nr-2"
-    @Discord = "no4r."
+</pre>
 
-  end
-┌──(root@No4r)-[~/]
-└─$
-```
+<p>
+  <a href="https://github.com/nr-2"><img src="https://img.shields.io/badge/GitHub-nr--2-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Discord-no4r.-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  <a href="https://instagram.com/no4r"><img src="https://img.shields.io/badge/Instagram-no4r-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,3 +28,6 @@ class No4r
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nr-2/nr-2/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nr-2/nr-2/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
