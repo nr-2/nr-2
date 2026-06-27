@@ -3,23 +3,28 @@
 ```python
 ┌──(root@No4r)-[~/]
 └─$ cat No4r.rb
-
 class No4r
   def initialize
     @Github = "https://github.com/nr-2"
     @Discord = "no4r."
     @Instagram = "https://instagram.com/no4r"
   end
-  
- ┌──(root@No4r)-[~/]
- └─$
+  end
+
+┌──(root@No4r)-[~/]
+└─$
 ```
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,java,go,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,bash,java,go,css,html,rs" />
   </a>
 </p>
+
 <h2 align="center"></h2>
 
-![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nr-2/nr-2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nr-2/nr-2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nr-2/nr-2/output/pacman-contribution-graph.svg">
+</picture>
