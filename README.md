@@ -10,7 +10,6 @@ class No4r
     @Instagram = "https://instagram.com/no4r"
   end
   end
-
 ┌──(root@No4r)-[~/]
 └─$
 ```
