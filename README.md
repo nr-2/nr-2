@@ -15,7 +15,7 @@ class No4r
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,java,go,css,html,rs" />
+    <img src="https://skillicons.dev/icons?i=python,bash,java,go,css,html,mysql" />
   </a>
 </p>
 
