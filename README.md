@@ -7,8 +7,7 @@ class No4r
   def initialize
     @Github = "https://github.com/nr-2"
     @Discord = "no4r."
-    @Instagram = "https://instagram.com/no4r"
-  end
+
   end
 ┌──(root@No4r)-[~/]
 └─$
